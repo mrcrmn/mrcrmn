@@ -1,5 +1,7 @@
 # Moin! 👋
 
+I'm a Full-Stack Web Developer currently working for Marshall Stewart & Delaney in Hamburg.
+
 
 
 <!--
