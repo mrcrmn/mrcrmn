@@ -1,12 +1,17 @@
 # Moin! 👋
 
+I'm a Full-Stack Web Developer currently working for <a href="https://www.m-s-d.de" target="_blank">Marshall Stewart & Delaney</a> in Hamburg.
+
 <a href="https://www.m-s-d.de" target="_blank">
   <img src="https://raw.githubusercontent.com/mrcrmn/mrcrmn/main/msd_logo.png" width="350">
 </a>
 
-I'm a Full-Stack Web Developer currently working for <a href="https://www.m-s-d.de" target="_blank">Marshall Stewart & Delaney</a> in Hamburg.
+### I prefer working with:
+- Vue ✌
+- Laravel 🛠
+- React Native ⚛
 
-
+I wish I had more time for Open Source.
 
 <!--
 **mrcrmn/mrcrmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
