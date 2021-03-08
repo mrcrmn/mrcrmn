@@ -11,7 +11,9 @@ I'm a Full-Stack Web Developer currently working for <a href="https://www.m-s-d.
 - Laravel 🛠
 - React Native ⚛
 
-I wish I had more time for Open Source.
+> The state of digitalization in Germany is a mess. Let's fix it!
+
+> I wish I had more time for Open Source.
 
 <!--
 **mrcrmn/mrcrmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
